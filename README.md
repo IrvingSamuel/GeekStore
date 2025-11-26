@@ -351,9 +351,9 @@ Marvel, DC Comics, Star Wars, Harry Potter, Dragon Ball, Naruto, One Piece, Poke
 - `MAYTHEFORCEBEWITHYOU` - 15% Star Wars
 - `ANIME25` - 25% produtos de Anime
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-- **Nome**: Irving
+- **Nomes**: Breno, George, Iggor, Irving e Paulo
 - **Disciplina**: Banco de Dados
 - **Data**: Novembro 2025
 
